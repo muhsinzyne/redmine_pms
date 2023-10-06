@@ -1,0 +1,1 @@
+redmine-5.0.5,GPL-2.0-only,http://www.redmine.org/releases/redmine-5.0.5.tar.gz
